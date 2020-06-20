@@ -1,0 +1,17 @@
+﻿body {
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-group {
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 20px;
+}
+
+#submitButton {
+    float: right;
+    margin-right: 250px;
+}
